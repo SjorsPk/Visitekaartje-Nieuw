@@ -1,0 +1,33 @@
+body {
+    width: auto;
+    height: 150vh;
+    justify-content: center;
+    align-items: center;
+    color: #10214e
+
+}
+
+.naw {
+    color: #10214e;
+}
+
+
+p {
+    border-color: black;
+    border-style: solid;
+    width: 400px;
+}
+
+.foto { 
+    position: relative;
+    border-style: solid;
+    border-color: grey; 
+    
+    height: 100;
+    width: 100;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
