@@ -18,9 +18,9 @@ body {
 }
 
 img {
-    border: 2px solid grey;
+    border: 2px solid linear-gradient(0deg, rgb(149, 18, 18) 40%, rgb(216, 72, 72) 100%);
     border-radius: 10px;
-    border-color: grey;
+    border-color: linear-gradient(0deg, rgb(149, 18, 18) 40%, rgb(216, 72, 72) 100%);
     border-width: 10px;
 }
 .foto {
@@ -60,4 +60,9 @@ img {
     align-items: flex-end;
     flex-direction: row-reverse;
     justify-content: space-around;
+}
+
+button {
+    visibility: hidden;
+    
 }
