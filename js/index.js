@@ -6,8 +6,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
 })
 
-// let hier absoluut niet op ik was iets aan het proberen
-
+// let hier absoluut niet op ik was iets aan t proberen
 // async function getData() {
 //     const url = "https://api.chucknorris.io/jokes/random";
 //     try {
@@ -22,4 +21,3 @@ document.addEventListener("DOMContentLoaded", async () => {
 //     } catch (error) {
 //         console.error(error.message);
 //     }
-// } 
